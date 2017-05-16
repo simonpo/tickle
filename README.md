@@ -1,6 +1,6 @@
 # TickleBot3 
 
-Test bot scaffolding generator and bot deployment
+A test app for checking app scaffold generator
 
 ## Built With
 

@@ -1,7 +1,7 @@
 {
   "name": "TickleBot3",
   "version": "0.1.0",
-  "description": "Test bot scaffolding generator and bot deployment",
+  "description": "A test app for checking app scaffold generator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
