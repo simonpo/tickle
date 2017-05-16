@@ -1,6 +1,6 @@
 # TickleBot3 
 
-Testing a humour bot and botscaffold generator
+Test version of TickleBot to deliver some humour
 
 ## Built With
 
