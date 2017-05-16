@@ -1,0 +1,29 @@
+{
+  "name": "TickleThree",
+  "version": "0.1.0",
+  "description": "This is TickleThree, i&#39;m just testing whether README gets made",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://<yourrepository>"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": {
+    "name" : "Simon Powell",
+    "email" : "simon@powell.at"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://<yourrepository>/issues"
+  },
+  "homepage": "https://<yourrepository>#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
