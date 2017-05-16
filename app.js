@@ -2,7 +2,7 @@
 // Set up requirements
 var restify = require('restify'); 
 var builder = require('botbuilder'); 
-// const util = require('util');
+const util = require('util');
 
 // Setup Restify Server
 var server = restify.createServer();

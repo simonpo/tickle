@@ -1,7 +1,7 @@
 {
   "name": "TickleBot3",
   "version": "0.1.0",
-  "description": "A test app for checking app scaffold generator",
+  "description": "Testing a humour bot and botscaffold generator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,7 @@
   "homepage": "https://<yourrepository>#readme",
   "dependencies": {
     "botbuilder": "^3.7.0",
-    "restify": "^4.3.0"
+    "restify": "^4.3.0",
+    "util": "^0.10.3"
   }
 }
