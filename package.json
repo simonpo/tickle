@@ -1,7 +1,7 @@
 {
-  "name": "TickleThree",
+  "name": "TickleBot3",
   "version": "0.1.0",
-  "description": "This is TickleThree, i&#39;m just testing whether README gets made",
+  "description": "Test bot scaffolding generator and bot deployment",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

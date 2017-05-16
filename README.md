@@ -1,6 +1,6 @@
-# TickleThree 
+# TickleBot3 
 
-This is TickleThree, i&#39;m just testing whether README gets made
+Test bot scaffolding generator and bot deployment
 
 ## Built With
 
